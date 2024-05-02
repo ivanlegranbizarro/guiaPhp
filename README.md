@@ -42,4 +42,4 @@ Para Mac, usa:
 
 ## ¡Listo!
 
-Con esto, ya puedes usar cualquier programa para visualizar bases de datos o trabajar directamente desde Visual Studio Code con uno de los muchos complementos disponibles.
+Con esto, ya puedes usar cualquier programa para visualizar bases de datos o trabajar directamente desde Visual Studio Code con uno de los muchos plugins para bases de datos disponibles.
