@@ -17,7 +17,7 @@ Para Linux, usa los repositorios disponibles. En distribuciones basadas en Debia
 
     apt install php
 
-Para Mac, usa Homebrew, que es como un gestor de paquetes para macOS. Instala PHP con:
+Para Mac, usa Homebrew, que es como un repositorio de Linux pero para macOS. Instala PHP con:
 
     brew install php
 
@@ -26,7 +26,7 @@ Ahora ya tienes PHP en tu equipo y un servidor rápido con el que trabajar. Pued
 
     php -S localhost:8000
 
-Como escribir eso da palo, lo mejor es que creéis un alias en vuestro intérprete de comandos, normalmente bashrc en Linux y zsh en Mac. El comando para crear un alias una vez que estáis en el perfil de bashrc o zsh con un editor de texto sería este:
+Como escribir eso da palo, lo mejor es que creéis un alias en vuestro intérprete de comandos, normalmente bashen Linux y zsh en Mac. El comando para crear un alias una vez que estáis en el perfil de bashrc o zsh con un editor de texto sería este:
 
     alias ps="php -S localhost:8000"
 
