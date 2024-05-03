@@ -26,7 +26,7 @@ Ahora ya tienes PHP en tu equipo y un servidor rápido con el que trabajar. Pued
 
     php -S localhost:8000
 
-Como escribir eso da palo, lo mejor es que creéis un alias en vuestro intérprete de comandos, normalmente bash en Linux y zsh en Mac. El comando para crear un alias una vez que estáis en el perfil de bashrc o zsh con un editor de texto sería este:
+Como escribir eso da palo, lo mejor es que creéis un alias en vuestro intérprete de comandos, normalmente bash en Linux y zsh en Mac. El comando para crear un alias una vez que estáis en el perfil de bash o zsh con un editor de texto sería este:
 
     alias ps="php -S localhost:8000"
 
