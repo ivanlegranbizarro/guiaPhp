@@ -9,7 +9,7 @@ Para aquellos que tengan problemas para trabajar con PHP usando Xampp, os propon
 ### 1. Eliminar Xampp
 Elimina cualquier rastro de Xampp en tu equipo.
 
-**Importante**: No necesitas hacer nada especial con tus proyectos de PHP. Si eliminas Xampp, tus archivos y proyectos existentes no se perderán (mientras no borres la carpeta "htdocs" que contiene la carpeta "xampp". Podrás seguir corriéndolos donde estén, simplemente tendrás que ejecutar el comando para lanzar el servidor PHP desde la raíz del directorio usando la terminal de VSCode, por ejemplo.
+**Importante**: No necesitas hacer nada especial con tus proyectos de PHP. Si eliminas Xampp, tus archivos y proyectos existentes no se perderán (mientras no borres la carpeta "htdocs" que contiene la carpeta "xampp"). Podrás seguir corriéndolos donde estén, simplemente tendrás que ejecutar el comando para lanzar el servidor PHP desde la raíz del directorio usando la terminal de VSCode, por ejemplo.
 
 ### 2. Instalar PHP
 Para Linux, usa los repositorios disponibles. En distribuciones basadas en Debian/Ubuntu, ejecuta:
